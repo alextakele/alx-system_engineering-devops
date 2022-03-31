@@ -1,3 +1,6 @@
 #!/bin/bash
 chmod 007 hello
 chmod 007 hello
+#!/bin/bash
+chmd 753 hello
+chmod 753 hello
