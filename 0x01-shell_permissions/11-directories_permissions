@@ -1,3 +1,4 @@
 #!/bin/bash
 chmod u+x a+X *
 chmod a+X *
+#!/bin/bash
