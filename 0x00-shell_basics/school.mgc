@@ -1,5 +1,3 @@
-!#/bin/bash
-!:mime School
-#!/bin/bash
 #!/bin/bash
 0 string SCHOOL School data
+!:mime School
