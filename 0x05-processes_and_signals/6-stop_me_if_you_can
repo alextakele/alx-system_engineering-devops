@@ -1,3 +1,9 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 # This script is displaying "Holberton School" 10 times
 pkill -f "bash ./4-to_infinity_and_beyond"
+=======
+#script that stops 4-to_infinity_and_beyond process.
+
+pkill -f 4-to_infinity_and_beyond
+>>>>>>> a666d4feeb08609da274b9104507cad833ebf765
